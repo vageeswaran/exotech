@@ -1,5 +1,4 @@
-# exotech
-EXOREDIS
+# EXOREDIS
 In-memory data structure server like REDIS developed in Python (2.7)
 
 Compilation and Running Instruction:
